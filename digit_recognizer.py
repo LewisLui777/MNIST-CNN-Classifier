@@ -339,10 +339,3 @@ train_run_test_ELU_hinge()
 train_run_test_ELU_1()
 train_run_test_ELU_hinge_1()
 
-"""Accuracy: 97.91%
-Accuracy: 98.1%
-Accuracy: 96.8%
-Accuracy: 11.35%
-Accuracy: 97.81%
-Accuracy: 96.82%
-"""
